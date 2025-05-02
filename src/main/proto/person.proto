@@ -1,6 +1,6 @@
 syntax="proto3";
 
-option java_package = "com.vinsguru.models";
+option java_package = "com.vinsgusu.models";
 
 message Person {
   string name = 1;
