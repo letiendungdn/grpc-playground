@@ -1,6 +1,6 @@
 package com.vinsgusu.sec01;
 
-import com.vinsgusu.models.PersonOuterClass;
+import com.vinsgusu.models.sec01.PersonOuterClass;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
